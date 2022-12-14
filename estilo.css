@@ -44,3 +44,9 @@ footer{
 	padding:10px;
 	text-align:center;
 }
+@media screen and (max-width: 600px) {
+	nav, article{
+		width: 100%;
+		height: auto;
+	}
+}
